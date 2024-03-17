@@ -1,0 +1,694 @@
+[
+  {
+    "title": "1. What are the time and space complexity for sorting algorithms",
+    "tags": ["Algorithm"]
+  },
+  {
+    "title": "2. What is Prototypal Inheritance? How does it work?",
+    "tags": ["JavaScript"]
+  },
+  {
+    "title": "3. explain `this` keyword in JavaScript",
+    "tags": ["JavaScript"]
+  },
+  {
+    "title": "4. what is Closure and how does it work?",
+    "tags": ["JavaScript"]
+  },
+  {
+    "title": "5.`var` vs `let` vs `const`",
+    "tags": ["JavaScript"]
+  },
+  {
+    "title": "6. Explain the concept of Promise to a 5-year-old",
+    "tags": ["JavaScript"]
+  },
+  {
+    "title": "7. Map vs Object vs Set vs Array",
+    "tags": ["JavaScript"]
+  },
+  {
+    "title": "8. difference between `==` and `===`",
+    "tags": ["JavaScript"]
+  },
+  {
+    "title": "9. explain how different CSS `position` property works",
+    "tags": ["CSS"]
+  },
+  {
+    "title": "10. what is the difference between `block` and `inline`?",
+    "tags": ["CSS"]
+  },
+  {
+    "title": "11. How HTTP works ? What is HTTP/2?",
+    "tags": ["Network"]
+  },
+  {
+    "title": "12. How does HTTPS work?",
+    "tags": ["Network"]
+  },
+  {
+    "title": "13. What is Event Delegation?",
+    "tags": ["DOM"]
+  },
+  {
+    "title": "14. Explain the differences between AMD, CommonJS and ES modules",
+    "tags": ["JavaScript"]
+  },
+  {
+    "title": "15. `Array.prototype.forEach()` vs `Array.prototype.map()`",
+    "tags": ["JavaScript"]
+  },
+  {
+    "title": "16. How does `instanceOf` work? difference with `typeof`",
+    "tags": ["JavaScript"]
+  },
+  {
+    "title": "17. Explain `new` operator in JavaScript. What exactly does it do?",
+    "tags": ["JavaScript"]
+  },
+  {
+    "title": "18. Explain `macrotask` and `microtask`",
+    "tags": ["JavaScript"]
+  },
+  {
+    "title": "19. What does header `Connection:Keep-Alive` do?",
+    "tags": ["Network"]
+  },
+  {
+    "title": "20. What happens when you type a URL in browser's address bar?",
+    "tags": ["Browser"]
+  },
+  {
+    "title": "21. What is DNS? How does it work?",
+    "tags": ["Network"]
+  },
+  {
+    "title": "22. What is HTTP Cache? How does it work?",
+    "tags": ["Network"]
+  },
+  {
+    "title": "23. How to communicate between Webview and Native Client?",
+    "tags": ["Webview"]
+  },
+  {
+    "title": "24. Explain TCP 3-Way Handshake process",
+    "tags": ["Network"]
+  },
+  {
+    "title": "25. what is the angle between the hours and the minutes hands at 3:15",
+    "tags": ["Fun"]
+  },
+  {
+    "title": "26. What is CDN? Why do we use it?",
+    "tags": ["Network"]
+  },
+  {
+    "title": "27. Explain Box Model",
+    "tags": ["CSS"]
+  },
+  {
+    "title": "28. How to detect crash of a web page?",
+    "tags": ["Browser"]
+  },
+  {
+    "title": "29. What is the difference between Express and Koa",
+    "tags": ["JavaScript", "Library"]
+  },
+  {
+    "title": "30. Explain the lifecycle of Vue instance",
+    "tags": ["Vue"]
+  },
+  {
+    "title": "31. What is the Pros and Cons of Node.js",
+    "tags": ["Node.js"]
+  },
+  {
+    "title": "32. Explain `async` and `await`",
+    "tags": ["JavaScript"]
+  },
+  {
+    "title": "33. Cookie vs localStorage vs sessionStorage",
+    "tags": ["Browser"]
+  },
+  {
+    "title": "34. What is CSRF? How to prevent it?",
+    "tags": ["Security"]
+  },
+  {
+    "title": "35. Explain common HTTP response status code",
+    "tags": ["Network"]
+  },
+  {
+    "title": "36. What is XSS? How to prevent it?",
+    "tags": ["Security"]
+  },
+  {
+    "title": "37. What is the best gift you have ever given or received ?",
+    "tags": ["Behavioral"]
+  },
+  {
+    "title": "38. How could you do to improve performance in React?",
+    "tags": ["React"]
+  },
+  {
+    "title": "39. What are Pseudo Class and Pseudo Element?",
+    "tags": ["CSS"]
+  },
+  {
+    "title": "39. Can you explain what React Fiber is?",
+    "tags": ["React"]
+  },
+  {
+    "title": "41. What is `keep-alive` in Vue.js useful for?",
+    "tags": ["Vue.js"]
+  },
+  {
+    "title": "42. What is the difference between Repaint and Reflow?",
+    "tags": ["Browser"]
+  },
+  {
+    "title": "43. What are Web Workers and Service Workers ?",
+    "tags": ["WebAPI"]
+  },
+  {
+    "title": "44. How Garbage collection in JavaScript works?",
+    "tags": ["JavaScript"]
+  },
+  {
+    "title": "45. What is memory leak ? How to debug and prevent it?",
+    "tags": ["JavaScript"]
+  },
+  {
+    "title": "46. Explain Event Loop in Browser and in Node.js",
+    "tags": ["JavaScript"]
+  },
+  {
+    "title": "47. What is Virtual DOM? How does it work?",
+    "tags": ["JavaScript"]
+  },
+  {
+    "title": "48. What is HOC(Higher Order Component)?",
+    "tags": ["JavaScript", "React"]
+  },
+  {
+    "title": "49. What is the pros and cons of Redux?",
+    "tags": ["Redux"]
+  },
+  {
+    "title": "50. What is React Hooks? What are the pros and cons?",
+    "tags": ["React"]
+  },
+  {
+    "title": "51. What is SSR? What is the pros and cons?",
+    "tags": ["JavaScript"]
+  },
+  {
+    "title": "52. What is loader and plugin in Webpack?",
+    "tags": ["Webpack"]
+  },
+  {
+    "title": "53. What are WeakSet and WeakMap?",
+    "tags": ["JavaScript"]
+  },
+  {
+    "title": "54. What is Micro Frontends? What does it try to solve?",
+    "tags": ["Architecture"]
+  },
+  {
+    "title": "55. Explain the common performance metrics",
+    "tags": ["Performance"]
+  },
+  {
+    "title": "56. How do you track errors from your web application?",
+    "tags": ["Architecture"]
+  },
+  {
+    "title": "57. Explain common HTTP request methods? What are they used for?",
+    "tags": ["Network"]
+  },
+  {
+    "title": "58. What does a HTTP request look like?",
+    "tags": ["Network"]
+  },
+  {
+    "title": "59. What is Array-Like Objects in JavaScript?",
+    "tags": ["JavaScript"]
+  },
+  {
+    "title": "60. When do we need to use non-strict mode?",
+    "tags": ["JavaScript"]
+  },
+  {
+    "title": "61. How to publish an NPM package",
+    "tags": ["JavaScript"]
+  },
+  {
+    "title": "62. What is Promise ? How to resolve a bunch of Promises in order?",
+    "tags": ["JavaScript"]
+  },
+  {
+    "title": "63. What is Factory Pattern?",
+    "tags": ["JavaScript"]
+  },
+  {
+    "title": "64. What is the difference between ES6 Class and ES5 implementation?",
+    "tags": ["JavaScript"]
+  },
+  {
+    "title": "65. What is Decorator Pattern",
+    "tags": ["JavaScript"]
+  },
+  {
+    "title": "66. How to find the Performance Bottleneck of a web app?",
+    "tags": ["Performance"]
+  },
+  {
+    "title": "67. What is the difference between setTimeout and setInterval?",
+    "tags": ["JavaScript"]
+  },
+  {
+    "title": "68. Tell us the difference between common image format on the web.",
+    "tags": ["General"]
+  },
+  {
+    "title": "69. What is Proxy Pattern?",
+    "tags": ["JavaScript"]
+  },
+  {
+    "title": "70. What is Observer Pattern?",
+    "tags": ["JavaScript"]
+  },
+  {
+    "title": "71. How to implement  lazy load for images?",
+    "tags": ["Architecture"]
+  },
+  {
+    "title": "72. How do you do unit test & e2e test in your web projects?",
+    "tags": ["Architecture"]
+  },
+  {
+    "title": "73. How do you do SEO in your project?",
+    "tags": ["General"]
+  },
+  {
+    "title": "74. How does @import works in CSS? What is the pros and cons",
+    "tags": ["CSS"]
+  },
+  {
+    "title": "75. What is Process and what is Thread",
+    "tags": ["General"]
+  },
+  {
+    "title": "76. What is the difference between for...in and Object.keys?",
+    "tags": ["JavaScript"]
+  },
+  {
+    "title": "77. What is difference between `for ... of` and `forEach`",
+    "tags": ["JavaScript"]
+  },
+  {
+    "title": "78. Tell us a time you acted beyond your comfort zone.",
+    "tags": ["Behavioral"]
+  },
+  {
+    "title": "79. How does HMR(Hot Module Replacement) work in Webpack?",
+    "tags": ["Webpack"]
+  },
+  {
+    "title": "80. Long Polling vs Sever-Sent Event vs WebSocket",
+    "tags": ["Network"]
+  },
+  {
+    "title": "81. How does client-side routing work?",
+    "tags": ["WebAPI"]
+  },
+  {
+    "title": "82. What is the difference between reset.css and Normalize.css",
+    "tags": ["CSS"]
+  },
+  {
+    "title": "83. How to create a box with fixed Aspect Ratio in CSS?",
+    "tags": ["CSS"]
+  },
+  {
+    "title": "84. How to create triangles with CSS?",
+    "tags": ["CSS"]
+  },
+  {
+    "title": "85. What were the best things you’ve ever created?",
+    "tags": ["Behavioral"]
+  },
+  {
+    "title": "86. What are you proud of the most?",
+    "tags": ["Behavioral"]
+  },
+  {
+    "title": "87. Tell me about a time that you failed.",
+    "tags": ["Behavioral"]
+  },
+  {
+    "title": "88. Tell me a time you achieved something through good collaboration.",
+    "tags": ["Behavioral"]
+  },
+  {
+    "title": "89. Tell me a time you handled conflict.",
+    "tags": ["Behavioral"]
+  },
+  {
+    "title": "90. How do you give and receive feedback?",
+    "tags": ["Behavioral"]
+  },
+  {
+    "title": "91. What is the best advice you have received?",
+    "tags": ["Behavioral"]
+  },
+  {
+    "title": "92. Why us?",
+    "tags": ["Behavioral"]
+  },
+  {
+    "title": "93. Why Front End?",
+    "tags": ["Behavioral"]
+  },
+  {
+    "title": "94. Can you do a retrospective on your current project?",
+    "tags": ["Behavioral"]
+  },
+  {
+    "title": "95. Tell me a time you handled pressure.",
+    "tags": ["Behavioral"]
+  },
+  {
+    "title": "96. Tell me a goal you set and you managed to achieve.",
+    "tags": ["Behavioral"]
+  },
+  {
+    "title": "97. Tell me a goal you set but couldn't manage to achieve.",
+    "tags": ["Behavioral"]
+  },
+  {
+    "title": "98. Tell me  a time you acted beyond your responsibility.",
+    "tags": ["Behavioral"]
+  },
+  {
+    "title": "99. How do you handle a challenge?",
+    "tags": ["Behavioral"]
+  },
+  {
+    "title": "100. Tell me a time you motivated yourself and your team members.",
+    "tags": ["Behavioral"]
+  },
+  {
+    "title": "101. What is that your team upset you the most?",
+    "tags": ["Behavioral"]
+  },
+  {
+    "title": "102. Your decision proved to be wrong, how do you receive feedback?",
+    "tags": ["Behavioral"]
+  },
+  {
+    "title": "103. What would you do if your progress is dragged own by other teams?",
+    "tags": ["Behavioral"]
+  },
+  {
+    "title": "104. What teams you want to be working in?",
+    "tags": ["Behavioral"]
+  },
+  {
+    "title": "105. Tell me a time you disagreed with your supervisor.",
+    "tags": ["Behavioral"]
+  },
+  {
+    "title": "106. Tell me about your current role.",
+    "tags": ["Behavioral"]
+  },
+  {
+    "title": "107. What's the most challenging thing you've done?",
+    "tags": ["Behavioral"]
+  },
+  {
+    "title": "108. Which environment is best to you to work",
+    "tags": ["Behavioral"]
+  },
+  {
+    "title": "109. Tell about most important decision in your life.",
+    "tags": ["Behavioral"]
+  },
+  {
+    "title": "110. What is your strength and weakness.",
+    "tags": ["Behavioral"]
+  },
+  {
+    "title": "111. What is the newest web technique that you are interested in.",
+    "tags": ["Behavioral"]
+  },
+  {
+    "title": "112. How do you target your web app to different screen sizes?",
+    "tags": ["Architecture"]
+  },
+  {
+    "title": "113. How do you create retina hairline(0.5px line in CSS)?",
+    "tags": ["CSS"]
+  },
+  {
+    "title": "114. What is CSS pixel and device pixel?",
+    "tags": ["CSS"]
+  },
+  {
+    "title": "115. What is single sign-on? How to implement it?",
+    "tags": ["Architecture"]
+  },
+  {
+    "title": "116. What is Singleton Pattern?",
+    "tags": ["JavaScript"]
+  },
+  {
+    "title": "117. What is JWT(JSON Web Token)?",
+    "tags": ["JavaScript"]
+  },
+  {
+    "title": "118. What is Skeleton Screen? How to implement them?",
+    "tags": ["Architecture"]
+  },
+  {
+    "title": "119. What is the difference between `async` and `defer` on script tag?",
+    "tags": ["Browser"]
+  },
+  {
+    "title": "120. What have you learned from past professional working experiences?",
+    "tags": ["Behavioral"]
+  },
+  {
+    "title": "121. How to center an element vertically?",
+    "tags": ["CSS", "Amazon"]
+  },
+  {
+    "title": "122. Explain the common CSS Relative length units",
+    "tags": ["CSS"]
+  },
+  {
+    "title": "123. what is Open Redirect problem? How to solve it?",
+    "tags": ["Security"]
+  },
+  {
+    "title": "124. How to implement pagination in Front End?",
+    "tags": ["Architecture"]
+  },
+  {
+    "title": "125. please explain the 3rd parameter of EventTarget.addEventListener()",
+    "tags": ["WebAPI"]
+  },
+  {
+    "title": "126. How would you debug a web page and find the bad code?",
+    "tags": ["General", "Amazon"]
+  },
+  {
+    "title": "127. Tell us about CSS keywords: initial/inherit/unset/revert",
+    "tags": ["CSS"]
+  },
+  {
+    "title": "128. Explain how position:sticky works",
+    "tags": ["CSS"]
+  },
+  {
+    "title": "129. how to create a responsive Square with CSS?",
+    "tags": ["CSS"]
+  },
+  {
+    "title": "130. What is the difference between modules and standard scripts?",
+    "tags": ["JavaScript"]
+  },
+  {
+    "title": "131. what is the difference between cache-control:no-cache and cache-control:no-store?",
+    "tags": ["HTTP"]
+  },
+  {
+    "title": "132. What is the differencee between Symmetric and Asymmetric Encryption?",
+    "tags": ["Security"]
+  },
+  {
+    "title": "133. can you tell the difference between MVC, MVVM and Flux?",
+    "tags": ["Architecture"]
+  },
+  {
+    "title": "134. is  Array.prototype.sort() stable in JavaScript?",
+    "tags": ["JavaScript"]
+  },
+  {
+    "title": "135. What attributes do Cookies have?",
+    "tags": ["HTTP"]
+  },
+  {
+    "title": "136. How to achieve responsiveness in your web app?",
+    "tags": ["CSS"]
+  },
+  {
+    "title": "137. What does`flex:1` mean?",
+    "tags": ["CSS"]
+  },
+  {
+    "title": "138. What is Block Formatting Context?",
+    "tags": ["CSS"]
+  },
+  {
+    "title": "139. What would be the principles if you are to lead a relatively large Front-End project?",
+    "tags": ["General"]
+  },
+  {
+    "title": "140. how does `clear` in CSS work?",
+    "tags": ["CSS"]
+  },
+  {
+    "title": "141. What does Object.freeze() do?",
+    "tags": ["JavaScript"]
+  },
+  {
+    "title": "142. Are you familiar with webpack? how does it work?",
+    "tags": ["DevTool"]
+  },
+  {
+    "title": "143. How does responsiveness work?",
+    "tags": ["CSS"]
+  },
+  {
+    "title": "144. What is the difference between Vue and React? How would you choose?",
+    "tags": ["Framework"]
+  },
+  {
+    "title": "145. how to implement user login?",
+    "tags": ["Auth"]
+  },
+  {
+    "title": "146. what is 'use strict' for?",
+    "tags": ["JavaScript"]
+  },
+  {
+    "title": "147. What is Same-Origin policy ? How to share Cross-Origin resource?",
+    "tags": ["HTTP"]
+  },
+  {
+    "title": "148. what is base64 ?",
+    "tags": ["network"]
+  },
+  {
+    "title": "149. Tell me more about Unicode and UTF-8",
+    "tags": ["General"]
+  },
+  {
+    "title": "150. Explain the structure of a HTTP message",
+    "tags": ["HTTP"]
+  },
+  {
+    "title": "151. What is 300ms tap delay for touch device? How to remove it",
+    "tags": ["Mobile"]
+  },
+  {
+    "title": "152. What is Generator and what is it useful for?",
+    "tags": ["JavaScript"]
+  },
+  {
+    "title": "153. why 0.1 + 0.2 !== 0.3 ? How to deal with float precision in your apps?",
+    "tags": ["JavaScript"]
+  },
+  {
+    "title": "154. How would you add offline support to your web app?",
+    "tags": ["JavaScript"]
+  },
+  {
+    "title": "155. how to improve performance of a webpage of a lot of images?",
+    "tags": ["performance"]
+  },
+  {
+    "title": "156. what is `transform:translateZ(0)` for?",
+    "tags": ["CSS"]
+  },
+  {
+    "title": "157. will the sheep be eaten?",
+    "tags": ["Fun"]
+  },
+  {
+    "title": "158. What technologies are you learning right now? and what do you plan to learn?",
+    "tags": ["Behavior"]
+  },
+  {
+    "title": "159. What is the difference between `git merge` and `git rebase`?",
+    "tags": ["General"]
+  },
+  {
+    "title": "160. How to turn HTML web page in to an image?",
+    "tags": ["General"]
+  },
+  {
+    "title": "161. explain iterators and generators",
+    "tags": ["JavaScript"]
+  },
+  {
+    "title": "162. What is the difference between function declaration and function expression?",
+    "tags": ["JavaScript"]
+  },
+  {
+    "title": "163. How do you troubleshoot when user reports a blank screen on you web page?",
+    "tags": ["General"]
+  },
+  {
+    "title": "164. What is the difference between `null` and `undefined` ? Which one should I use?",
+    "tags": ["JavaScript"]
+  },
+  {
+    "title": "165. What is the different between '^1.2.3' and '~1.2.3' in package.json",
+    "tags": ["NPM"]
+  },
+  {
+    "title": "166. Tell us the differences about <b> <strong> <i> <em>",
+    "tags": ["HTML"]
+  },
+  {
+    "title": "167. please briefly introduce yourself",
+    "tags": ["General"]
+  },
+  {
+    "title": "168. What is the difference between `display:none` and `visibility:hidden`",
+    "tags": ["CSS"]
+  },
+  {
+    "title": "169. What is the response body of HTTP status code 304?",
+    "tags": ["Network"]
+  },
+  {
+    "title": "170. Do you have any questions to ask about our company, team or anything?",
+    "tags": ["Behavioral"]
+  },
+  {
+    "title": "171. Tell us your approach if you're asked to build a Design System for your team and company?",
+    "tags": ["SystemDesign"]
+  },
+  {
+    "title": "172. What is the difference between TCP and UDP?",
+    "tags": ["Network"]
+  },
+  {
+    "title": "173. Explain the cookie attribute: \"SameSite\".",
+    "tags": ["Network"]
+  }
+]

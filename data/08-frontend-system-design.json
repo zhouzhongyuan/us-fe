@@ -1,0 +1,82 @@
+[
+  {
+    "title": "1. Design facebook.com",
+    "tags": ["ProductDesign"]
+  },
+  {
+    "title": "2. Design an instagram",
+    "tags": ["ProductDesign"]
+  },
+  {
+    "title": "3. Design an Infinite Scroller",
+    "tags": ["SystemDesign"]
+  },
+  {
+    "title": "4. Design a messenger web app",
+    "tags": ["ProductDesign"]
+  },
+  {
+    "title": "5. Design an API progress bar",
+    "tags": ["SystemDesign"]
+  },
+  {
+    "title": "6. Design a Typeahead Widget",
+    "tags": ["SystemDesign"]
+  },
+  {
+    "title": "7. Design a perfect TODO app",
+    "tags": ["ProductDesign"]
+  },
+  {
+    "title": "8. Create a Star Widget",
+    "tags": ["SystemDesign"]
+  },
+  {
+    "title": "9. Design a Poll Widget",
+    "tags": ["SystemDesign"]
+  },
+  {
+    "title": "10. Design a Carousel Widget",
+    "tags": ["SystemDesign"]
+  },
+  {
+    "title": "11. Design Twitter Web App",
+    "tags": ["ProductDesign"]
+  },
+  {
+    "title": "12. design a QR code based login system",
+    "tags": ["SystemDesign"]
+  },
+  {
+    "title": "13. design BFE.dev",
+    "tags": ["ProductDesign"]
+  },
+  {
+    "title": "14. design youtube.com",
+    "tags": ["ProductDesign"]
+  },
+  {
+    "title": "15. create a WYSIWYG editor",
+    "tags": ["SystemDesign"]
+  },
+  {
+    "title": "16. design CodeSandbox",
+    "tags": ["ProductDesign"]
+  },
+  {
+    "title": "17. Design a slider component",
+    "tags": ["SystemDesign"]
+  },
+  {
+    "title": "18. How would you create google analytics script.",
+    "tags": ["SystemDesign"]
+  },
+  {
+    "title": "19. Design a Tic-Tac-Toe game",
+    "tags": ["SystemDesign"]
+  },
+  {
+    "title": "20. Implement nested checkboxes",
+    "tags": ["SystemDesign"]
+  }
+]

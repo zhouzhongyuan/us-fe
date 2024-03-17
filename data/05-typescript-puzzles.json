@@ -1,0 +1,250 @@
+[
+  {
+    "title": "1. implement Partial<T>",
+    "tags": ["TypeScript", "easy"]
+  },
+  {
+    "title": "2. implement Required<T>",
+    "tags": ["TypeScript", "easy"]
+  },
+  {
+    "title": "3. implement Readonly<T>",
+    "tags": ["TypeScript", "easy"]
+  },
+  {
+    "title": "4. implement Record<K, V>",
+    "tags": ["TypeScript", "easy"]
+  },
+  {
+    "title": "5. implement Pick<T, K>",
+    "tags": ["TypeScript", "easy"]
+  },
+  {
+    "title": "6. implement Omit<T, K>",
+    "tags": ["TypeScript", "easy"]
+  },
+  {
+    "title": "7. implement Exclude<T, E>",
+    "tags": ["TypeScript", "easy"]
+  },
+  {
+    "title": "8. implement Extract<T, U>",
+    "tags": ["TypeScript", "easy"]
+  },
+  {
+    "title": "9. implement NonNullable<T>",
+    "tags": ["TypeScript", "easy"]
+  },
+  {
+    "title": "10. implement Parameters<T>",
+    "tags": ["TypeScript", "easy"]
+  },
+  {
+    "title": "11. implement ConstructorParameters<T>",
+    "tags": ["TypeScript", "easy"]
+  },
+  {
+    "title": "12. implement ReturnType<T>",
+    "tags": ["TypeScript", "easy"]
+  },
+  {
+    "title": "13. implement InstanceType<T>",
+    "tags": ["TypeScript", "easy"]
+  },
+  {
+    "title": "14. implement ThisParameterType<T>",
+    "tags": ["TypeScript", "easy"]
+  },
+  {
+    "title": "15. implement OmitThisParameter<T>",
+    "tags": ["TypeScript", "easy"]
+  },
+  {
+    "title": "16. implement FirstChar<T>",
+    "tags": ["TypeScript", "easy"]
+  },
+  {
+    "title": "17. implement LastChar<T>",
+    "tags": ["TypeScript", "easy"]
+  },
+  {
+    "title": "18. implement TupleToUnion<T>",
+    "tags": ["TypeScript", "easy"]
+  },
+  {
+    "title": "19. implement FirstItem<T>",
+    "tags": ["TypeScript", "easy"]
+  },
+  {
+    "title": "20: implement IsNever<T>",
+    "tags": ["TypeScript", "easy"]
+  },
+  {
+    "title": "21. implement LastItem<T>",
+    "tags": ["TypeScript", "easy"]
+  },
+  {
+    "title": "22. implement StringToTuple<T>",
+    "tags": ["TypeScript", "easy"]
+  },
+  {
+    "title": "23. implement LengthOfTuple<T>",
+    "tags": ["TypeScript", "easy"]
+  },
+  {
+    "title": "24. implement LengthOfString<T>",
+    "tags": ["TypeScript", "easy"]
+  },
+  {
+    "title": "25. implement UnwrapPromise<T>",
+    "tags": ["TypeScript", "easy"]
+  },
+  {
+    "title": "26. implement ReverseTuple<T>",
+    "tags": ["TypeScript", "easy"]
+  },
+  {
+    "title": "27. implement Flat<T>",
+    "tags": ["TypeScript", "easy"]
+  },
+  {
+    "title": "28. implement IsEmptyType<T>",
+    "tags": ["TypeScript", "easy"]
+  },
+  {
+    "title": "29. implement Shift<T>",
+    "tags": ["TypeScript", "easy"]
+  },
+  {
+    "title": "30. implement IsAny<T>",
+    "tags": ["TypeScript", "easy"]
+  },
+  {
+    "title": "31. implement Push<T, I>",
+    "tags": ["TypeScript", "easy"]
+  },
+  {
+    "title": "32. implement RepeatString<T, C>",
+    "tags": ["TypeScript", "easy"]
+  },
+  {
+    "title": "33. implement TupleToString<T>",
+    "tags": ["TypeScript", "easy"]
+  },
+  {
+    "title": "34. implement Repeat<T, C>",
+    "tags": ["TypeScript", "easy"]
+  },
+  {
+    "title": "35. implement Filter<T, A>",
+    "tags": ["TypeScript", "easy"]
+  },
+  {
+    "title": "36. implement LargerThan<A, B>",
+    "tags": ["TypeScript", "easy"]
+  },
+  {
+    "title": "37. implement SmallerThan<A, B>",
+    "tags": ["TypeScript", "easy"]
+  },
+  {
+    "title": "38. implement Add<A, B>",
+    "tags": ["TypeScript", "easy"]
+  },
+  {
+    "title": "39. implement ToNumber<T>",
+    "tags": ["TypeScript", "easy"]
+  },
+  {
+    "title": "40. implement UnionToIntersection<T>",
+    "tags": ["TypeScript", "easy"]
+  },
+  {
+    "title": "41. implement FindIndex<T, E>",
+    "tags": ["TypeScript", "easy"]
+  },
+  {
+    "title": "42. implement Equal<A, B>",
+    "tags": ["TypeScript", "easy"]
+  },
+  {
+    "title": "43. implement Trim<T>",
+    "tags": ["TypeScript", "easy"]
+  },
+  {
+    "title": "44. implement ReplaceAll<S, F, T>",
+    "tags": ["TypeScript", "easy"]
+  },
+  {
+    "title": "45. implement Slice<A, S, E>",
+    "tags": ["TypeScript", "easy"]
+  },
+  {
+    "title": "46. implement Subtract<A, B>",
+    "tags": ["TypeScript", "easy"]
+  },
+  {
+    "title": "47. implement Multiply<A, B>",
+    "tags": ["TypeScript", "few challengers"]
+  },
+  {
+    "title": "48. implement Divide<A, B>",
+    "tags": ["TypeScript", "easy"]
+  },
+  {
+    "title": "49. asserts never",
+    "tags": ["TypeScript", "easy"]
+  },
+  {
+    "title": "50. implement Sort<T>",
+    "tags": ["TypeScript", "few challengers"]
+  },
+  {
+    "title": "51. implement Capitalize<T>",
+    "tags": ["TypeScript", "few challengers"]
+  },
+  {
+    "title": "52. implement Split<S, D>",
+    "tags": ["TypeScript", "few challengers"]
+  },
+  {
+    "title": "53. Implement SnakeCase<S>",
+    "tags": ["TypeScript", "few challengers"]
+  },
+  {
+    "title": "54. Implement CamelCase<S>",
+    "tags": ["TypeScript", "few challengers"]
+  },
+  {
+    "title": "55. implement StringToNumber<S>",
+    "tags": ["TypeScript", "few challengers"]
+  },
+  {
+    "title": "56. implement Abs<N>",
+    "tags": ["TypeScript", "easy"]
+  },
+  {
+    "title": "57. implement ObjectPaths<O>",
+    "tags": ["TypeScript", "easy"]
+  },
+  {
+    "title": "58. implement Diff<A, B>",
+    "tags": ["TypeScript", "easy"]
+  },
+  {
+    "title": "59. implement MapStringUnionToObjectUnion<U>",
+    "tags": ["TypeScript", "easy"]
+  },
+  {
+    "title": "60. implement UndefinedToNull<T>",
+    "tags": ["TypeScript", "easy"]
+  },
+  {
+    "title": "61. implement Prefix<T, P>",
+    "tags": ["TypeScript", "easy"]
+  },
+  {
+    "title": "62. implement Unique<T extends any[]>",
+    "tags": ["TypeScript", "few challengers"]
+  }
+]

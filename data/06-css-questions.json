@@ -1,0 +1,98 @@
+[
+  {
+    "title": "1. center an element vertically",
+    "tags": ["CSS", "easy"]
+  },
+  {
+    "title": "2. truncate text in one line(with ellipsis)",
+    "tags": ["CSS", "easy"]
+  },
+  {
+    "title": "3. truncate text in multiple lines(with ellipsis)",
+    "tags": ["CSS", "medium"]
+  },
+  {
+    "title": "4. two-column layout",
+    "tags": ["CSS", "Layout", "medium"]
+  },
+  {
+    "title": "5. modal with max height",
+    "tags": ["CSS", "medium"]
+  },
+  {
+    "title": "6. different checkbox style",
+    "tags": ["CSS", "medium"]
+  },
+  {
+    "title": "7. a row",
+    "tags": ["CSS", "medium"]
+  },
+  {
+    "title": "8. Twitter's website layout",
+    "tags": ["CSS", "Layout", "medium"]
+  },
+  {
+    "title": "9. multi-column text",
+    "tags": ["CSS", "medium"]
+  },
+  {
+    "title": "10. golden-ratio rectangle",
+    "tags": ["CSS", "easy"]
+  },
+  {
+    "title": "11. fit the image",
+    "tags": ["CSS", "medium"]
+  },
+  {
+    "title": "12. close button in CSS",
+    "tags": ["CSS", "medium"]
+  },
+  {
+    "title": "13. list numbering",
+    "tags": ["CSS", "medium"]
+  },
+  {
+    "title": "14. 0.5px border",
+    "tags": ["CSS", "medium"]
+  },
+  {
+    "title": "15. doughnut chart",
+    "tags": ["CSS", "medium"]
+  },
+  {
+    "title": "16. flex layout 1",
+    "tags": ["CSS", "Layout", "medium"]
+  },
+  {
+    "title": "17. fragment style",
+    "tags": ["CSS", "medium"]
+  },
+  {
+    "title": "18. color gradients on text",
+    "tags": ["CSS", "medium"]
+  },
+  {
+    "title": "19. color of input elements",
+    "tags": ["CSS", "medium"]
+  },
+  {
+    "title": "20. sticky footer",
+    "tags": ["CSS", "Layout", "medium"]
+  },
+  {
+    "title": "21. Holy Grail Layout",
+    "tags": ["CSS", "Layout", "medium"]
+  },
+  {
+    "title": "22. Grid Layout 1",
+    "tags": ["CSS", "Layout", "medium"]
+  },
+  {
+    "title": "23. Grid Layout 2",
+    "tags": ["CSS", "Layout", "medium"]
+  },
+  {
+    "title": "24. fluid font size",
+    "tags": ["CSS", "medium"]
+  }
+]
