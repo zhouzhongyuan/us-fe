@@ -1,1 +1,0 @@
-const forgettingCurveList = [1, 3, 7, 15, 30, 60, 180];

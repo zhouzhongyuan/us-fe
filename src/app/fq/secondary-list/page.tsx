@@ -1,0 +1,39 @@
+"use client";
+import { useSearchParams, useParams } from "next/navigation";
+// import { useRouter } from "next/router";
+
+import data from "../data";
+
+export default function Home() {
+  const params = useSearchParams();
+  const type = params.get("type");
+  const currentData = data.find((item) => item.key === type)?.data;
+  return (
+    <main className="flex min-h-screen flex-col items-center justify-between p-24">
+      <div className="mb-32 grid text-center lg:max-w-5xl lg:w-full lg:mb-0 lg:grid-cols-1 lg:text-left">
+        {currentData?.map((item) => {
+          return (
+            <a
+              href={`/fq/secondary-list?type=${item.key}`}
+              key={item.order}
+              className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <h2 className={`mb-3 text-2xl font-semibold`}>
+                <p className={`m-0 max-w-[30ch] text-sm opacity-50`}></p>
+                {/* {item.order}
+                {". "} */}
+                {item.title} {""}
+                {""}
+                <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
+                  -&gt;
+                </span>
+              </h2>
+            </a>
+          );
+        })}
+      </div>
+    </main>
+  );
+}
